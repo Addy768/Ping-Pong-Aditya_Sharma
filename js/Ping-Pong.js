@@ -86,7 +86,7 @@ ball.velocityY = 0
 function render(){
 //creating canvas
 
-drawRect(0, 0, cvs.width, cvs.height, "#ff3f34")
+drawRect(0, 0, cvs.width, cvs.height, "#462859")
 
 // draw net
 drawNet()
